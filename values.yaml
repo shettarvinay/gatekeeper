@@ -1,4 +1,4 @@
-replicas: 3
+replicas: 2
 auditInterval: 60
 constraintViolationsLimit: 20
 auditFromCache: false
